@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Jai",
+      "lastname": "Babu",
+      "email": "jai@gmail.com",
+      "mobile": "1234567890",
+      "salary": "10000"
+    },
+    {
+      "id": 4,
+      "firstname": "seneha",
+      "lastname": "subramaniyan",
+      "email": "seneha@gmail.com",
+      "mobile": "9566714775",
+      "salary": "24500"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
